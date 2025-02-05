@@ -6,7 +6,11 @@ Inside the `src/models.py` file, you will find a couple of classes describing an
 
 The `diagram.png` file generates a database chart based on the classes that have been created. Such charts in Database Management are referred to as ERDs (Entity Relatonship Diagrams).
 
-You will have to create the Entity Relationship Diagram for Instagram's Database - a very similar diagram to this one:
+You will have to create the Entity Relationship Diagram for Instagram's Database. After my modification to the code it looks like:
+
+## Solution
+
+<img src="diagram.png" alt="simple ERD for instagram"  />
 
 ## Installation
 
